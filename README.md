@@ -24,3 +24,8 @@ BeautifulSoup：
 
 ![预览](show.gif)  
 ![数据](index.jpg)  
+
+## 运行项目  
+先切换到myblog文件夹，输入以下命令运行项目       
+D:\github_projects\spider-baike python spider_main.py  
+运行后的数据保存到output.html     
